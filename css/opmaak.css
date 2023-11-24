@@ -15,8 +15,9 @@ header{
 footer{
     background-color:#a3b4c8;
     background-image: url("../afbeeldingen/waterpoortje.png");
-    padding-bottom: 88px;
+    background-position: bottom;
     padding-top: 40px;
+    padding-bottom: 20px;
     text-align: center;
     font-family: 'Red Hat Display', sans-serif;
     color: #022e51;
