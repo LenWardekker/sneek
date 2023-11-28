@@ -32,7 +32,7 @@ body{
     padding: 20px;
     min-width: fit-content;
 }
-    @media only screen and (min-width: 600px) {body{background-color: #4685b8;}
+    @media only screen and (max-width: 600px) {body{background-color: #4685b8;}
 }
 h1{
     font-family: 'Kdam Thmor Pro', sans-serif;
